@@ -18,10 +18,10 @@ permalink: /students
 <!-- -->
 
 - **Ashlynn Wimer**: MA'25 in Computational Social Science @ Univeresity of Chicago, now PhD Student @ Harvard T.H. Chan
-- **Qian Fang Yeap**: SISRM Undergraduate Research Assistant @ University of Chicago
-- **Enrico Madani**: DSI Summer Lab Undergraduate Research Assistant @ University of Chicago
-- **Na Nguyen**: DSI Summer Lab Undergraduate Research Assistant @ University of Chicago
-- **Marcus Kuo**: SISRM Undergraduate Research Assistant @ University of Chicago
-- **Yassir Atlas**: DSI Summer Lab Undergraduate Research Assistant @ University of Chicago
-- **Helen Michael**: DSI Summer Lab Undergraduate Research Assistant @ University of Chicago
+- **Qian Fang Yeap**: SISRM Research Assistant @ University of Chicago
+- **Enrico Madani**: DSI Summer Lab Research Assistant @ University of Chicago
+- **Na Nguyen**: DSI Summer Lab Research Assistant @ University of Chicago
+- **Marcus Kuo**: SISRM Research Assistant @ University of Chicago
+- **Yassir Atlas**: DSI Summer Lab Research Assistant @ University of Chicago
+- **Helen Michael**: DSI Summer Lab Research Assistant @ University of Chicago
 
