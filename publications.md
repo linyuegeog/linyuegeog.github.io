@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-description: Here be writings
 permalink: /publications
 ---
 
