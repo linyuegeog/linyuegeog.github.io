@@ -11,7 +11,7 @@ title: Home
   }
 </style>
 
-<div style="display: flex; align-items: center; gap: 40px; margin-bottom: 1.5em; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; gap: 40px; margin-bottom: 1.5em; flex-wrap: wrap;">
   <!-- Photo + Info block -->
   <div class="photo-block" style="flex-shrink: 0; width: 140px; text-align: center;">
     <img src="assets/photo.jpeg" alt="Yue Lin" 
