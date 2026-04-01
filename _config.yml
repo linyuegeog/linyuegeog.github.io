@@ -92,6 +92,7 @@ defaults:
 baseurl: /
 permalink: /publications/:slug
 permalink: /teaching/:slug
+permalink: /students/:slug
 
 timezone: America/Chicago
 future: false
@@ -104,6 +105,7 @@ exclude: [vendor]
 
 Publications: /publications
 Teaching: /teaching
+Students: /students
 
 # Add general links to site pages here
 links:
