@@ -25,7 +25,7 @@ title: Home
 
   <!-- Main text -->
   <div style="flex: 1; min-width: 250px;">
-    <p>
+    <p style="margin-top: 0;">
       I am Assistant Professor in the 
       <a href="https://ggis.illinois.edu/" target="_blank">
         Department of Geography & Geographic Information Science
