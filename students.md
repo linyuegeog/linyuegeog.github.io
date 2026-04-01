@@ -4,7 +4,7 @@ title: Students
 permalink: /students
 ---
 
-*Prospective students: if you are interested in working with me, please email me with your CV and review the GGIS Graduate Programs [application page](https://ggis.illinois.edu/academics/graduate-programs/apply).*
+*Prospective students: Undergraduate students at UIUC interested in research opportunities are encouraged to email me with your CV. Prospective graduate students are also encouraged to email me and should review the GGIS Graduate Programs [application page](https://ggis.illinois.edu/academics/graduate-programs/apply).*
 
 
 **Current Students**
