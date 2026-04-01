@@ -58,8 +58,8 @@ title: Home
       <a href="https://www.researchgate.net/profile/Yue-Lin-14" target="_blank">ResearchGate</a>.
     </p>
     <p>
-    Prospective students: if you are interested in working with me, please email with your CV and review the 
-    GGIS Graduate Programs application page <a href="https://ggis.illinois.edu/academics/graduate-programs/apply" target="_blank">here</a>.
+      <em>Prospective students: if you are interested in working with me, please email me with your CV and review the GGIS Graduate Programs application page 
+      <a href="https://ggis.illinois.edu/academics/graduate-programs/apply" target="_blank">here</a>.</em>
     </p>
     <p style="margin-top: 1em; font-size: 0.9em; color: #555;">
       *Yue is pronounced “Yoo-eh”.*
