@@ -13,7 +13,7 @@ title: Home
 
 <div style="display: flex; align-items: flex-start; gap: 40px; margin-bottom: 1.5em; flex-wrap: wrap;">
   <!-- Photo + Info block -->
-  <div class="photo-block" style="flex-shrink: 0; width: 140px; text-align: center;">
+  <div class="photo-block" style="flex-shrink: 0; width: 140px; text-align: center; margin-top: 1em;">
     <img src="assets/photo.jpeg" alt="Yue Lin" 
          style="width: 100%; height: auto;" />
     <div style="margin-top: 0.7em; font-size: 0.85em; color: #444; line-height: 1.6;">
@@ -25,7 +25,7 @@ title: Home
 
   <!-- Main text -->
   <div style="flex: 1; min-width: 250px;">
-    <p style="margin-top: 0;">
+    <p>
       I am Assistant Professor in the 
       <a href="https://ggis.illinois.edu/" target="_blank">
         Department of Geography & Geographic Information Science
