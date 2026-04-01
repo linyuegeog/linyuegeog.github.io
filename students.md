@@ -4,6 +4,10 @@ title: Students
 permalink: /students
 ---
 
+<em>Prospective students: if you are interested in working with me, please email me with your CV and review the GGIS Graduate Programs application page 
+      <a href="https://ggis.illinois.edu/academics/graduate-programs/apply" target="_blank">here</a>.
+</em>
+
 **Current Students**
 <!-- -->
 
