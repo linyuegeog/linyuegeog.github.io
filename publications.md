@@ -6,6 +6,7 @@ permalink: /publications
 
 **2026**
 <!-- -->
+28. **Lin, Y.**, Yeap, Q.F., Zhang, H. (2026). Citizen science and geoprivacy: Empirical analysis of location masking in large-scale crowdsensing networks. *The Professional Geographer*, Published Online. [[paper](https://doi.org/10.1080/00330124.2026.2656680)]
 27.  Zhao, B. & **Lin, Y.** (2026). GeoAI collapse? Ethical implications of synthetic geospatial data use. *International Journal of Geographical Information Science*, Published Online. [[paper](https://doi.org/10.1177/23998083251369570)]
 
 **2025**
@@ -17,7 +18,7 @@ permalink: /publications
 23. **Lin, Y.** & Zhao, B. (2025). Posthuman cartography? Rethinking artificial intelligence, cartographic practices, and reflexivity. *Annals of the American Association of Geographers*, 115(3), 499-512. [[paper](https://doi.org/10.1080/24694452.2024.2435920)]
     - **<small>Top 3 most read articles published in the journal in 2025</small>**
 22. Xiao, N., Kim, M.J., & **Lin, Y.** (2025). A multistart and recombination algorithm for finding many unique solutions to spatial aggregation problems. *Geoinformatica*, 29, 53-91. [[paper](https://doi.org/10.1007/s10707-024-00520-0)]
-21. **Lin, Y.** & Kim, J. (2025). Pillars of GeoAI in Human Geography. In *GeoAI and Human Geography: The Dawn of a New Spatial Intelligence Era* (pp. 29-40). Cham: Springer Nature Switzerland. [[chapter](https://doi.org/10.1007/978-3-031-87421-5_3)]
+21. **Lin, Y.** & Kim, J. (2025). Pillars of GeoAI in human geography. In *GeoAI and Human Geography: The Dawn of a New Spatial Intelligence Era* (pp. 29-40). Cham: Springer Nature Switzerland. [[chapter](https://doi.org/10.1007/978-3-031-87421-5_3)]
 20. Otto, P. & **Lin, Y.** (2025). The Roaring ‘20s Project: Mapping pre-renewal built environments in Chicago from Sanborn Fire Insurance maps using a computational workflow. *32nd International Cartographic Conference (ICC 2025)*, August 16--22, Vancouver, CA. [[short paper](https://ica-abs.copernicus.org/articles/10/220/2025/ica-abs-10-220-2025.pdf)]
 
 **2024**
