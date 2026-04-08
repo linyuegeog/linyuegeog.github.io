@@ -6,7 +6,7 @@ permalink: /publications
 
 **2026**
 <!-- -->
-28. **Lin, Y.**, Yeap, Q.F., Zhang, H. (2026). Citizen science and geoprivacy: Empirical analysis of location masking in large-scale crowdsensing networks. *The Professional Geographer*, Published Online. [[paper](https://doi.org/10.1080/00330124.2026.2656680)]
+28. **Lin, Y.**, Yeap, Q.F., & Zhang, H. (2026). Citizen science and geoprivacy: Empirical analysis of location masking in large-scale crowdsensing networks. *The Professional Geographer*, Published Online. [[paper](https://doi.org/10.1080/00330124.2026.2656680)]
 27.  Zhao, B. & **Lin, Y.** (2026). GeoAI collapse? Ethical implications of synthetic geospatial data use. *International Journal of Geographical Information Science*, Published Online. [[paper](https://doi.org/10.1080/13658816.2025.2609806)]
 
 **2025**
