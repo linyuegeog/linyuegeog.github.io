@@ -8,7 +8,7 @@ The Geospatial Computing & Society (GCS) Lab is dedicated to advancing geospatia
 
 **We're looking for prospective graduate and undergraduate students** interested in the intersections of spatial data science, GeoAI, spatial and social inequalities, and critical GIS. Prospective graduate students are encouraged to email me with their CV and review the GGIS Graduate Programs [application page](https://ggis.illinois.edu/academics/graduate-programs/apply). 
 
-##Recent Projects
+**Recent Projects**
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 1rem;">
 
@@ -21,7 +21,7 @@ The Geospatial Computing & Society (GCS) Lab is dedicated to advancing geospatia
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
-    <img src="PLACEHOLDER_IMAGE_2" alt="Project image" style="width: 100%; height: 160px; object-fit: cover; background: #eee;">
+    <img src="assets/images/clusters_crisp_with_changes.png" alt="Project image" style="width: 100%; height: 160px; object-fit: cover; background: #eee;">
     <div style="padding: 1rem;">
       <p style="font-size: 0.75rem; color: #888; margin: 0 0 0.4rem;">Socially Fair Geodemographic Clustering</p>
       <a href="https://www.tandfonline.com/doi/full/10.1080/13658816.2024.2444525">Read more →</a>
@@ -48,13 +48,13 @@ The Geospatial Computing & Society (GCS) Lab is dedicated to advancing geospatia
 
 
 
-##Current Members
+**Current Members**
 <!-- -->
 
 - **Angela Li**: Honors Thesis Student @ UIUC 
 - **Emma Chen**: NCSA SPIN Summer Intern @ UIUC
 
-##Past Members
+**Past Members**
 <!-- -->
 
 *Masters students*
