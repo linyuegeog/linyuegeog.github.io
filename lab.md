@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Geospatial Computing & Society Lab
+title: Lab
 permalink: /lab
 ---
 
