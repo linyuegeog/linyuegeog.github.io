@@ -4,24 +4,23 @@ title: Lab
 permalink: /lab
 ---
 
-*Prospective students: Undergraduate students at UIUC interested in research opportunities are encouraged to email me with your CV. Prospective graduate students are also encouraged to email me and should review the GGIS Graduate Programs [application page](https://ggis.illinois.edu/academics/graduate-programs/apply).*
+
+# About Geospatial Computing & Society (GCS) Lab
+
+The Geospatial Computing & Society (GCS) Lab sits at the intersection of spatial data science, geospatial artificial intelligence, and critical GIS. Our research pursues two interconnected directions: (1) developing computational and AI methods with attention to issues of social and geographic equity, fairness, and justice in digital environments; and (2) bridging critical geography and GIS scholarship with emerging geospatial technologies to examine these technologies critically and inform how they are envisioned, designed, and developed responsibly.
+
+We're looking for prospective graduate and undergraduate students interested in the intersections of spatial data science, GeoAI, spatial and social inequalities, and critical GIS. Prospective graduate students are encouraged to email me with their CV and review the GGIS Graduate Programs [application page](https://ggis.illinois.edu/academics/graduate-programs/apply). 
 
 
-**Current Students**
+**Current Members**
 <!-- -->
+- **Angela Li**: Honors Thesis Student @ UIUC 
+- **Emma Chen**: NCSA SPIN Summer Intern @ UIUC
 
-- **Janice Mei**: Undergraduate Research Assistant (Roepke Scholar), CS + Geography & GIS @ UIUC
-- **Oviya Muthukumaran**: Undergraduate Research Assistant (Roepke Scholar), CS + Geography & GIS @ UIUC
-- **Angela Li**: Undergraduate Student, GIS @ UIUC
-
-**Former Students**
+**Past Members**
 <!-- -->
+*Masters students*
+- Ashlynn Wimer, MA'25 in Computational Social Science @ UChicago
 
-- **Ashlynn Wimer**: MA'25 in Computational Social Science @ Univeresity of Chicago, now PhD Student @ Harvard T.H. Chan
-- **Qian Fang Yeap**: SISRM Research Assistant @ University of Chicago
-- **Enrico Madani**: DSI Summer Lab Research Assistant @ University of Chicago
-- **Na Nguyen**: DSI Summer Lab Research Assistant @ University of Chicago
-- **Marcus Kuo**: SISRM Research Assistant @ University of Chicago
-- **Yassir Atlas**: DSI Summer Lab Research Assistant @ University of Chicago
-- **Helen Michael**: DSI Summer Lab Research Assistant @ University of Chicago
-
+*Undergraduate students*
+Janice Mei, Oviya Muthukumaran, Qian Fang Yeap, Enrico Madani, Na Nguyen, Marcus Kuo, Yassir Atlas, Helen Michael

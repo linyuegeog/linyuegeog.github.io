@@ -105,12 +105,11 @@ exclude: [vendor]
 
 Publications: /publications
 Teaching: /teaching
+Lab: /lab
 
 links:
   CV: /assets/cv.pdf
   
-Geospatial Computing & Society Lab: /lab
-
 # Add general links to site pages here
 
   
