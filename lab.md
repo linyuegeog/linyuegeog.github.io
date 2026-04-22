@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Lab
+title: Geospatial Computing & Society (GCS) Lab
 permalink: /lab
 ---
-
-
-# About Geospatial Computing & Society (GCS) Lab
 
 The Geospatial Computing & Society (GCS) Lab sits at the intersection of spatial data science, geospatial artificial intelligence, and critical GIS. Our research pursues two interconnected directions: (1) developing computational and AI methods with attention to issues of social and geographic equity, fairness, and justice in digital environments; and (2) bridging critical geography and GIS scholarship with emerging geospatial technologies to examine these technologies critically and inform how they are envisioned, designed, and developed responsibly.
 
