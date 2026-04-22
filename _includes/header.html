@@ -3,10 +3,12 @@
     <a href="{{ site.url }}">Home</a> 
     <a href="{{ site.url }}{{ site.Publications }}">Publications</a>
     <a href="{{ site.url }}{{ site.Teaching }}">Teaching</a>
-    <a href="{{ site.url }}{{ site.Lab }}">Geospatial Computing & Society Lab</a>
-    
+
     {% for link in site.links %}
         <a href="{{ site.url }}{{ link[1] }}">{{ link[0] }}</a>
     {% endfor %}
+    
+    <a href="{{ site.url }}{{ site.Lab }}">Geospatial Computing & Society Lab</a>
+
     
 </nav>
