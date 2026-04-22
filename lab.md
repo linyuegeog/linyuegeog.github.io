@@ -4,7 +4,7 @@ title: Geospatial Computing & Society (GCS) Lab
 permalink: /lab
 ---
 
-The Geospatial Computing & Society (GCS) Lab sits at the intersection of spatial data science, geospatial artificial intelligence, and critical GIS. Our research pursues two interconnected directions: (1) developing computational and AI methods with attention to issues of social and geographic equity, fairness, and justice in digital environments; and (2) bridging critical geography and GIS scholarship with emerging geospatial technologies to examine these technologies critically and inform how they are envisioned, designed, and developed responsibly.
+The Geospatial Computing & Society (GCS) Lab is dedicated to advancing geospatial technologies in ways that are socially responsible and beneficial. Our research spans spatial data science, geospatial artificial intelligence, and critical GIS, pursuing two interconnected directions: (1) developing computational and AI methods that account for social and geographic inequities in digital spaces and policy contexts; and (2) engaging critical geography and GIS scholarship to examine emerging geospatial technologies and inform how they are envisioned, designed, and developed.
 
 We're looking for prospective graduate and undergraduate students interested in the intersections of spatial data science, GeoAI, spatial and social inequalities, and critical GIS. Prospective graduate students are encouraged to email me with their CV and review the GGIS Graduate Programs [application page](https://ggis.illinois.edu/academics/graduate-programs/apply). 
 
