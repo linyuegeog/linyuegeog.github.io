@@ -29,7 +29,7 @@ The Geospatial Computing & Society (GCS) Lab is dedicated to advancing geospatia
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
-    <img src="PLACEHOLDER_IMAGE_3" alt="Project image" style="width: 100%; height: 160px; object-fit: cover; background: #eee;">
+    <img src="assets/images/posthuman.png" alt="Project image" style="width: 100%; height: 160px; object-fit: cover; background: #eee;">
     <div style="padding: 1rem;">
       <p style="font-size: 0.75rem; color: #888; margin: 0 0 0.4rem;">Posthuman Cartography</p>
       <a href="https://www.tandfonline.com/doi/full/10.1080/24694452.2024.2435920">Read more →</a>
@@ -37,7 +37,7 @@ The Geospatial Computing & Society (GCS) Lab is dedicated to advancing geospatia
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
-    <img src="PLACEHOLDER_IMAGE_4" alt="Project image" style="width: 100%; height: 160px; object-fit: cover; background: #eee;">
+    <img src="assets/images/position-ratings.png" alt="Project image" style="width: 100%; height: 160px; object-fit: cover; background: #eee;">
     <div style="padding: 1rem;">
       <p style="font-size: 0.75rem; color: #888; margin: 0 0 0.4rem;">Geospatial Crowdsensing and Location Privacy</p>
       <a href="https://doi.org/10.1080/00330124.2026.2656680">Read more →</a>
