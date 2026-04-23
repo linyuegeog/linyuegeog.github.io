@@ -61,9 +61,4 @@ permalink: /lab
 **Past Members**
 <!-- -->
 
-*Masters students*
-- Ashlynn Wimer, MA'25 in Computational Social Science @ UChicago
-
-*Undergraduate students*
-
-Janice Mei, Oviya Muthukumaran, Qian Fang Yeap, Enrico Madani, Na Nguyen, Marcus Kuo, Yassir Atlas, Helen Michael
+Janice Mei, Oviya Muthukumaran, Ashlynn Wimer, Qian Fang Yeap, Enrico Madani, Na Nguyen, Marcus Kuo, Yassir Atlas, Helen Michael
