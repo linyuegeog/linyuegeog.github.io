@@ -23,6 +23,10 @@ b {
     color: #222;
 }
 
+.rainbow-bold {
+    font-weight: 700;
+}
+
 a {
     color: #007aff;
     cursor: pointer;
