@@ -64,7 +64,7 @@ a:hover {
 nav a {
     text-decoration: none; /* no underline */
     margin-right: 10px;
-    color: inherit; /* inherit text color instead of blue */
+    color: #222 !important; /* force black color for nav links */
 }
 
 nav a:hover {
