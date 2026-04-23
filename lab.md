@@ -5,9 +5,9 @@ permalink: /lab
 ---
 
 <p>
-  The <span class="rainbow-bold">G</span>eospatial 
-  <span class="rainbow-bold">C</span>omputing &amp; 
-  <span class="rainbow-bold">S</span>ociety (GCS) Lab studies how geospatial technologies are designed, deployed, and governed, with a focus on their social consequences and possibilities for more just futures. Our research spans spatial data science, geospatial artificial intelligence, and critical GIS, and pursues two interconnected directions: (1) developing computational and AI methods that explicitly account for issues such as location privacy and spatial inequalities across data systems, algorithmic models, and policy contexts; and (2) critically examining the social, political, and ethical implications of emerging geospatial technologies (e.g., GeoAI) and envisioning alternative ways these systems can be designed, governed, and used.
+  The <span class="rainbow-bold">G</span>**eospatial** 
+  <span class="rainbow-bold">C</span>**omputing** &amp; 
+  <span class="rainbow-bold">S</span>**ociety** (GCS) Lab studies how geospatial technologies are designed, deployed, and governed, with a focus on their social consequences and possibilities for more just futures. Our research spans spatial data science, geospatial artificial intelligence, and critical GIS, and pursues two interconnected directions: (1) developing computational and AI methods that explicitly account for issues such as location privacy and spatial inequalities across data systems, algorithmic models, and policy contexts; and (2) critically examining the social, political, and ethical implications of emerging geospatial technologies (e.g., GeoAI) and envisioning alternative ways these systems can be designed, governed, and used.
 </p>
 
 **We're looking for prospective graduate and undergraduate students** interested in the intersections of spatial data science, GeoAI, spatial and social inequalities, and critical GIS. Prospective graduate students are encouraged to email me with their CV and review the GGIS Graduate Programs [application page](https://ggis.illinois.edu/academics/graduate-programs/apply). 
