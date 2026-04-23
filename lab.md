@@ -4,7 +4,14 @@ title: Geospatial Computing & Society (GCS) Lab
 permalink: /lab
 ---
 
-The Geospatial Computing & Society (GCS) Lab studies how geospatial technologies are designed, deployed, and governed, with a focus on their social consequences and possibilities for more just futures. Our research spans spatial data science, geospatial artificial intelligence, and critical GIS, and pursues two interconnected directions: (1) developing computational and AI methods that explicitly account for issues such as location privacy and spatial inequalities across data systems, algorithmic models, and policy contexts; and (2) critically examining the social, political, and ethical implications of emerging geospatial technologies (e.g., GeoAI) and envisioning alternative ways these systems can be designed, governed, and used.
+<h1 class="lab-title">
+  <span class="rainbow">G</span>eospatial
+  <span class="rainbow">C</span>omputing &amp;
+  <span class="rainbow">S</span>ociety (GCS) Lab
+</h1>
+
+
+The **G**eospatial **C**omputing & **S**ociety (GCS) Lab studies how geospatial technologies are designed, deployed, and governed, with a focus on their social consequences and possibilities for more just futures. Our research spans spatial data science, geospatial artificial intelligence, and critical GIS, and pursues two interconnected directions: (1) developing computational and AI methods that explicitly account for issues such as location privacy and spatial inequalities across data systems, algorithmic models, and policy contexts; and (2) critically examining the social, political, and ethical implications of emerging geospatial technologies (e.g., GeoAI) and envisioning alternative ways these systems can be designed, governed, and used.
 
 **We're looking for prospective graduate and undergraduate students** interested in the intersections of spatial data science, GeoAI, spatial and social inequalities, and critical GIS. Prospective graduate students are encouraged to email me with their CV and review the GGIS Graduate Programs [application page](https://ggis.illinois.edu/academics/graduate-programs/apply). 
 
