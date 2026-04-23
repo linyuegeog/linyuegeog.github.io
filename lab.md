@@ -3,8 +3,8 @@ layout: page
 permalink: /lab
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <img src="assets/gcs_lab_stacked.png" alt="Geospatial Computing & Society Lab" style="max-width: 300px;">
+<div style="text-align: center;">
+  <img src="assets/gcs_lab_stacked.png" alt="Geospatial Computing & Society Lab" style="max-width: 200px;">
 </div>
 
 <p>
