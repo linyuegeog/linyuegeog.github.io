@@ -47,10 +47,10 @@ title: Home
       </a>
     </p>
     <p>
-      My research explores the intersection of data, computation, and human values. I am interested in how emerging geospatial technologies can be designed and used in ways that are ethical, socially responsible, and beneficial to humanity. More broadly, my interests span spatial data science, location privacy, and the societal implications of spatial algorithmic systems.
+      My research explores the intersection of data, computation, and human values. I am interested in how emerging geospatial technologies can be designed and used in ways that are ethical, socially responsible, and beneficial to humanity. More broadly, my interests span spatial data science, location privacy, and critical geospatial artificial intelligence (GeoAI).
     </p>
     <p>
-      I’m currently investigating the social implications of geospatial artificial intelligence, including issues of social bias, model collapse, and loss of diversity. I’m also committed to helping students to engage critically with these technologies by integrating AI literacy and ethical reasoning into their geospatial education.
+      I’m currently investigating the social and ethical implications of GeoAI, including issues of socio-spatial biases, model collapse, and loss of diversity. I’m also committed to helping students to engage critically with these technologies by integrating AI literacy and ethical reasoning into their geospatial education.
     </p>
     <p>
       Feel free to get in touch with me at 
