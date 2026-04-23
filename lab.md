@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Geospatial Computing & Society Lab
 permalink: /lab
 ---
+
+![Geospatial Computing & Society Lab](assets/images/gcs_lab_stacked.png)
 
 <p>
   The <span class="rainbow-bold">G</span>eospatial 
