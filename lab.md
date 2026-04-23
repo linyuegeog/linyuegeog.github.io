@@ -3,7 +3,9 @@ layout: page
 permalink: /lab
 ---
 
-![Geospatial Computing & Society Lab](assets/gcs_lab_stacked.png)
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="assets/gcs_lab_stacked.png" alt="Geospatial Computing & Society Lab" style="max-width: 300px;">
+</div>
 
 <p>
   The <span class="rainbow-bold">G</span>eospatial 
