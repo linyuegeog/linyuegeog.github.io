@@ -92,7 +92,7 @@ defaults:
 baseurl: /
 permalink: /publications/:slug
 permalink: /teaching/:slug
-permalink: /lab/:slug
+permalink: /gcslab/:slug
 
 timezone: America/Chicago
 future: false
@@ -110,7 +110,7 @@ Teaching: /teaching
 links:
   CV: /assets/cv.pdf
 
-Lab: /lab
+Lab: /gcslab
 
 
   

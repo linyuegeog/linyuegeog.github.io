@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /lab
+permalink: /gcslab
 ---
 
 <div style="text-align: center;">
