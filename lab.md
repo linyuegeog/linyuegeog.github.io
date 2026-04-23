@@ -4,7 +4,7 @@ permalink: /lab
 ---
 
 <div style="text-align: center;">
-  <img src="assets/gcs_lab_stacked.png" alt="Geospatial Computing & Society Lab" style="max-width: 200px;">
+  <img src="assets/gcs_lab_stacked.png" alt="Geospatial Computing & Society Lab" style="max-width: 250px;">
 </div>
 
 <p>
