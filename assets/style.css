@@ -304,3 +304,18 @@ small a {
     text-align: right;
     font-size: small;
 }
+
+.rainbow-bold {
+  font-weight: 700;
+  background: linear-gradient(
+    90deg,
+    #ff0000,
+    #ff7a00,
+    #ffd500,
+    #00c853,
+    #2962ff,
+    #7b1fa2
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
