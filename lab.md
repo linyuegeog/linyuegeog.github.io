@@ -4,7 +4,7 @@ permalink: /gcslab
 ---
 
 <div style="text-align: center;">
-  <img src="assets/logo.png" alt="Geospatial Computing & Society Lab" style="max-width: 250px;">
+  <img src="assets/logo.png" alt="Geospatial Computing & Society Lab" style="max-width: 300px;">
 </div>
 
 <p>
