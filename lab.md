@@ -58,13 +58,13 @@ permalink: /gcslab
 ## Current Members
 <!-- -->
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 1rem;">
-  <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
-    <img src="assets/students/angela%20li.png" alt="Angela Li" style="width: 100%; height: 240px; object-fit: cover; background: #eee;">
-    <div style="padding: 1rem;">
-      <p style="font-size: 1rem; font-weight: 700; margin: 0 0 0.5rem;">Angela Li</p>
-      <p style="margin: 0 0 0.75rem; color: #555;">Angela is a senior undergraduate student majoring in Geography with a concentration in GIS. Her research interests lie at the intersection of human-environment interactions and social relations. She is working with Dr. Lin on her senior thesis, which focuses on Neighborhood-Scale ESG Assessment of Urban Environments Using Street View Imagery in Chicago.</p>
-    </div>
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; margin-top: 1rem;">
+  <div style="flex: 0 0 220px; max-width: 220px;">
+    <img src="assets/students/angela%20li.png" alt="Angela Li" style="width: 100%; border-radius: 8px; object-fit: cover; background: #eee;">
+  </div>
+  <div style="flex: 1 1 320px; min-width: 240px;">
+    <p style="font-size: 1rem; font-weight: 700; margin: 0 0 0.5rem;">Angela Li</p>
+    <p style="margin: 0; color: #555;">Angela is a senior undergraduate student majoring in Geography with a concentration in GIS. Her research interests lie at the intersection of human-environment interactions and social relations. She is working with Dr. Lin on her senior thesis, which focuses on Neighborhood-Scale ESG Assessment of Urban Environments Using Street View Imagery in Chicago.</p>
   </div>
 </div>
 
