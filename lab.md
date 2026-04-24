@@ -66,7 +66,7 @@ permalink: /gcslab
       <p style="margin: 0 0 0.75rem; color: #555;">Angela is a senior undergraduate student majoring in Geography with a concentration in GIS. Her research interests lie at the intersection of human-environment interactions and social relations. She is working with Dr. Lin on her senior thesis, which focuses on Neighborhood-Scale ESG Assessment of Urban Environments Using Street View Imagery in Chicago.</p>
     </div>
   </div>
-
+</div>
 
 **Past Members**
 <!-- -->
