@@ -58,8 +58,15 @@ permalink: /gcslab
 **Current Members**
 <!-- -->
 
-- **Angela Li**: Honors Thesis Student @ UIUC 
-- **Emma Chen**: NCSA SPIN Summer Intern @ UIUC
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 1rem;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden;">
+    <img src="assets/students/angela%20li.png" alt="Angela Li" style="width: 100%; height: 240px; object-fit: cover; background: #eee;">
+    <div style="padding: 1rem;">
+      <p style="font-size: 1rem; font-weight: 700; margin: 0 0 0.5rem;">Angela Li</p>
+      <p style="margin: 0 0 0.75rem; color: #555;">Angela is a senior undergraduate student majoring in Geography with a concentration in GIS. Her research interests lie at the intersection of human-environment interactions and social relations. She is working with Dr. Lin on her senior thesis, which focuses on Neighborhood-Scale ESG Assessment of Urban Environments Using Street View Imagery in Chicago.</p>
+    </div>
+  </div>
+
 
 **Past Members**
 <!-- -->
