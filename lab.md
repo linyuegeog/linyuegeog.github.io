@@ -15,7 +15,7 @@ permalink: /gcslab
 
 **We're looking for prospective graduate and undergraduate students** interested in the intersections of spatial data science, GeoAI, spatial and social inequalities, and critical GIS. Prospective students are encouraged to email me at <a href="mailto:linyue@illinois.edu">linyue@illinois.edu</a> with their CV. Prospective graduate students should also review the GGIS Graduate Programs [application page](https://ggis.illinois.edu/academics/graduate-programs/apply). 
 
-**Recent Projects**
+## Recent Projects
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 1rem;">
 
@@ -55,7 +55,7 @@ permalink: /gcslab
 
 
 
-**Current Members**
+## Current Members
 <!-- -->
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin-top: 1rem;">
@@ -68,7 +68,7 @@ permalink: /gcslab
   </div>
 </div>
 
-**Past Members**
+## Past Members
 <!-- -->
 
 Janice Mei, Oviya Muthukumaran, Ashlynn Wimer, Qian Fang Yeap, Enrico Madani, Na Nguyen, Marcus Kuo, Yassir Atlas, Helen Michael
