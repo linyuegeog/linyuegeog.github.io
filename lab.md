@@ -60,13 +60,18 @@ permalink: /gcslab
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.5rem; align-items: flex-start; margin-top: 1rem;">
   <div style="flex: 0 0 220px; max-width: 220px;">
-    <img src="assets/students/angela%20li.png" alt="Angela Li" style="width: 100%; border-radius: 8px; object-fit: cover; background: #eee;">
+    <img src="assets/students/angela-li.png" alt="Angela Li" style="width: 100%; border-radius: 8px; object-fit: cover; background: #eee;">
   </div>
   <div style="flex: 1 1 320px; min-width: 240px;">
     <p style="font-size: 1rem; font-weight: 700; margin: 0 0 0.5rem;">Angela Li</p>
     <p style="margin: 0; color: #555;">Angela is a senior undergraduate student majoring in Geography with a concentration in GIS. Her research interests lie at the intersection of human-environment interactions and social relations. She is working with Dr. Lin on her senior thesis, which focuses on Neighborhood-Scale ESG Assessment of Urban Environments Using Street View Imagery in Chicago.</p>
+  </div>  <div style="flex: 0 0 220px; max-width: 220px;">
+    <img src="assets/students/emma-chen.png" alt="Emma Chen" style="width: 100%; border-radius: 8px; object-fit: cover; background: #eee;">
   </div>
-</div>
+  <div style="flex: 1 1 320px; min-width: 240px;">
+    <p style="font-size: 1rem; font-weight: 700; margin: 0 0 0.5rem;">Emma Chen</p>
+    <p style="margin: 0; color: #555;">Emma is a rising senior at UIUC studying statistics with minors in data science and creative writing. She is working with Dr. Yue Lin through the Summer 2026 SPIN internship.</p>
+  </div></div>
 
 ## Past Members
 <!-- -->
