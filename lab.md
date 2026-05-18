@@ -13,7 +13,7 @@ permalink: /gcslab
   <span class="rainbow-bold">S</span>ociety Lab studies how geospatial technologies are designed, deployed, and governed, with a focus on their social consequences and possibilities for more just futures. Our research spans spatial data science, geospatial artificial intelligence, and critical GIS, and pursues two interconnected directions: (1) developing computational and AI methods that explicitly account for issues such as location privacy and spatial inequalities across data systems, algorithmic models, and policy contexts; and (2) critically examining the social, political, and ethical implications of emerging geospatial technologies (e.g., GeoAI) and envisioning alternative ways these systems can be designed, governed, and used.
 </p>
 
-**We're looking for prospective graduate and undergraduate students interested in the intersections of spatial data science, GeoAI, spatial and social inequalities, and critical GIS. Prospective students are encouraged to email me at <a href="mailto:linyue@illinois.edu">linyue@illinois.edu</a> with their CV. Prospective graduate students should also review the GGIS Graduate Programs [application page](https://ggis.illinois.edu/academics/graduate-programs/apply).**
+**We're looking for prospective graduate and undergraduate students interested in the intersections of spatial data science, GeoAI, spatial and social inequalities, and critical GIS. Prospective students are encouraged to email me at linyue at illinois.edu with their CV. Prospective graduate students should also review the GGIS Graduate Programs [application page](https://ggis.illinois.edu/academics/graduate-programs/apply).**
 
 ## Recent Projects
 
