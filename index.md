@@ -31,7 +31,7 @@ title: Home
         Department of Geography & Geographic Information Science
       </a> 
       at the University of Illinois Urbana-Champaign, where I direct the 
-      <a href="https://linyuehzzz.github.io/gcslab" target="_blank">
+      <a href="https://geocompsoc.web.illinois.edu/" target="_blank">
       Geospatial Computing & Society Lab.
       </a> I am also a Faculty Affiliate at the 
       <a href="https://ncsa.illinois.edu/" target="_blank">
